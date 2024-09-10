@@ -1,11 +1,11 @@
-# ABHII-XD
-MADE ABHI YADAV
+# 𝐍𝐈𝐓𝐈𝐃𝐇-XD
+MADE NITISH CHAUDHARY 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+ABHI-YADAV;Jay shri ram__💞;Coded+By+ABHI-YADAV" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+ABHI-YADAV;Jay shri ram__💞;Coded+By+NITISH-CHAUDHARY" alt="Typing SVG" /></a>
   
-THIS REPOSITORY MADE BY ABHI_YADAV
-<h1 align="center">Hi 👋, I'M ABHI YADAV</h1>
-<h1 aling="center">जय श्री राम___❤️🙏</h1>
+THIS REPOSITORY MADE BY NITISH_CHAUDHARY
+<h1 align="center">Hi 👋, I'M NITISH CHAUDHARY</h1>
+<h1 aling="center">JAY BHIM___💙🙏</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -16,17 +16,12 @@ THIS REPOSITORY MADE BY ABHI_YADAV
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+ABHI-YADAV;Jay shri ram__💞;Coded+By+ABHI-YADAV" alt="Typing SVG" /></a>
   
 
-- 👨‍💻 All friends  my youtube channle : - [https://www.youtube.com/@fb_TRICKER](https://www.youtube.com/@fb_TRICKER)
 
-- ⚡ Fun fact **I am funny😅**
-
--  ## Support
-
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/HlSlNQu5DI106VDGUrIu2r"><img alt="WhatsApp" 
+- ⚡ Fun fact **I am funny😅*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhi yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi yadav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nitish Chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi yadav" height="30" width="40" /></a>
 <a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
