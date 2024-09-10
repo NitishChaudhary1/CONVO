@@ -1,7 +1,7 @@
 # 𝐍𝐈𝐓𝐈𝐃𝐇-XD
 MADE NITISH CHAUDHARY 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+ABHI-YADAV;Jay shri ram__💞;Coded+By+NITISH-CHAUDHARY" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+ABHI-YADAV;Jay jay bhim__💙;Coded+By+NITISH-CHAUDHARY" alt="Typing SVG" /></a>
   
 THIS REPOSITORY MADE BY NITISH_CHAUDHARY
 <h1 align="center">Hi 👋, I'M NITISH CHAUDHARY</h1>
@@ -10,10 +10,10 @@ THIS REPOSITORY MADE BY NITISH_CHAUDHARY
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-pyadav&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish-pyadav&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+ABHI-YADAV;Jay shri ram__💞;Coded+By+ABHI-YADAV" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+NITISH-CHSUDHARY;Jay BHIM__💞;Coded+By+NITISH-CHAUDHARY" alt="Typing SVG" /></a>
   
 
 
